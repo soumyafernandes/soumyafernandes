@@ -1,7 +1,8 @@
 - learning github
 - charging team
--
-- 💞️ I’m looking to collaborate on ...
+-blu ocean
+
+- 
 - 📫 How to reach me ...
 
 <!---
